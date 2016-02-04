@@ -1,0 +1,8 @@
+*_leveldb
+*.DS_Store
+/python/*.jpg
+/python/*.jpeg
+/python/*.png
+.ipynb_checkpoints
+/dataset
+!/dataset/0/0_0001.jpg
